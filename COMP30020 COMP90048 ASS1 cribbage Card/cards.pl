@@ -1,0 +1,61 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+
+% Facts about cards.
+% ----------------
+cards(ace, 'club').
+cards(2, 'club').
+cards(3, 'club').
+cards(4, 'club').
+cards(5, 'club').
+cards(6, 'club').
+cards(7, 'club').
+cards(8, 'club').
+cards(9, 'club').
+cards(10, 'club').
+cards(jack, 'club').
+cards(queen, 'club').
+cards(king, 'club').
+
+cards(ace, 'diamond').
+cards(2, 'diamond').
+cards(3, 'diamond').
+cards(4, 'diamond').
+cards(5, 'diamond').
+cards(6, 'diamond').
+cards(7, 'diamond').
+cards(8, 'diamond').
+cards(9, 'diamond').
+cards(10, 'diamond').
+cards(jack, 'diamond').
+cards(queen, 'diamond').
+cards(king, 'diamond').
+
+cards(ace, 'heart').
+cards(2, 'heart').
+cards(3, 'heart').
+cards(4, 'heart').
+cards(5, 'heart').
+cards(6, 'heart').
+cards(7, 'heart').
+cards(8, 'heart').
+cards(9, 'heart').
+cards(10, 'heart').
+cards(jack, 'heart').
+cards(queen, 'heart').
+cards(king, 'heart').
+
+cards(ace, 'sapde').
+cards(2, 'sapde').
+cards(3, 'sapde').
+cards(4, 'sapde').
+cards(5, 'sapde').
+cards(6, 'sapde').
+cards(7, 'sapde').
+cards(8, 'sapde').
+cards(9, 'sapde').
+cards(10, 'sapde').
+cards(jack, 'sapde').
+cards(queen, 'sapde').
+cards(king, 'sapde').
